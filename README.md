@@ -61,7 +61,21 @@ funcionamiento y estudiar su estructura en aplicaciones de circuitos de alumbrad
 ## 4. Video:
 
 
-## 5. Bibliografia:
+## 5. Conclusiones:
+
+- En conclusión, el presente proyecto logra entender unir varios conceptos 
+tratados en clase como el uso de resistores, la resistencia de cada uno, 
+la fuente de poder en este caso una bateria de 5V, el uso de un 
+protobard y otros conceptos necesarios en la electronica .
+
+-Se realizó un trabajo eficiente que permite reconocer los conceptos de la 
+electrónica fundamental, en beneficio del trabajo se alcanzará el objetivo 
+que es el análisis de los componentes que conforman el circuito eléctrico.
+
+
+## 6. Bibliografia:
+
+
 
 
 
